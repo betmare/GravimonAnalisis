@@ -1,0 +1,14 @@
+ftp.bao.com.ve
+ftp://bao.com.ve
+panel de control: http://www.bao.com.ve:2082/
+carpeta de usuario: jose
+
+usuario ftp:
+josezapata
+clave:
+19502246bsag
+
+Mysql:
+nombre: baocomve_fundacion
+usuario: baocomve_josez
+clave: 17877861
